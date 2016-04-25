@@ -1,2 +1,2 @@
 # ctfs
-Collection of scripts and writeups from different ctfs I've partici[ated in.
+Collection of scripts and writeups from different ctfs I've participated in.
